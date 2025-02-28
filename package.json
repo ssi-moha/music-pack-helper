@@ -1,0 +1,13 @@
+{
+  "name": "music-pack-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "public-google-sheets-parser": "^1.5.4",
+    "ytdl-core": "npm:@distube/ytdl-core"
+  }
+}
